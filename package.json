@@ -1,0 +1,25 @@
+{
+  "name": "flask-grammar",
+  "main": "./lib/flask-grammar",
+  "autor": {
+    "name": "Juan Leon"
+  },
+  "version": "0.0.0",
+  "description": "Experimental grammar rules for flask",
+  "keywords": [
+    "flask",
+    "jinja",
+    "grammar",
+    "syntax",
+    "highlighting",
+    "python"
+  ],
+  "repository": "https://github.com/jleonra/flask-grammar",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.2.0 <2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/jleonra/flask-grammar/issues"
+  }
+}
